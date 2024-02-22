@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 90px;
     padding-top: 0px;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Play", sans-serif;
     
 }
 header{
@@ -23,6 +23,7 @@ header{
 }
 h1 {
     font-size: 40px;
+    font-weight: 400px;
     color: #f6c103;
     text-shadow: 10px 5px 5px black;
 }
@@ -52,11 +53,17 @@ figcaption {
     font-style: italic;
     margin-bottom: 4px bold #FFF;
 }
+
+.line_about {
+    background-color: #a19f98;
+    height: 2px;
+
+}
 .about {
     display:flex;
     flex-direction: column;
     align-items: center;
-     color:#d7d4d4
+     color:#ffffff
 }
 
 .about h2 {
@@ -67,4 +74,15 @@ figcaption {
 .about p {
     font-size: 17px;
     margin-top: 1px;
+
+    
+}
+.background_p {
+    background: #5d5d5d;
+    background: linear-gradient(#5d5d5d,#93844e, #5d5d5d ); 
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
 }
