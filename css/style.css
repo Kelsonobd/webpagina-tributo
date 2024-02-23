@@ -106,22 +106,100 @@ div .album_born {
     font-size: 20px;
     text-shadow: 10px 5px 5px black;
     background: linear-gradient(to right, #a6986f, #796c48);
-    width: 800px;
+    width: 700px;
     height: 150px;
  }  
  
-div .rigth_item {
+div .album_ultra{
     display: flex;
     justify-content: flex-end;
     flex-direction: row;
     align-items: center;
-    margin-left: 50px;
+    margin-left: 180px;
     font-size: 20px;
     text-shadow: 10px 5px 5px black;
     background: #000;
     background: linear-gradient(to right, #d0cfd0, #40403e);
-    width: 800px;
+    width: 700px;
+    height: 150px;  
+}
+div .album_honey{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row-reverse;
+    align-items: center;
+    font-size: 20px;
+    text-shadow: 10px 5px 5px black;
+    background: linear-gradient(to right, #891f24, #3baab3);
+    width: 700px;
     height: 150px;
-    
+
+}
+div .album_lust {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 180px;
+    font-size: 20px;
+    text-shadow: 10px 5px 5px black;
+    background: #000;
+    background: linear-gradient(to right, #bbd4d8, #9d7669);
+    width: 700px;
+    height: 150px;  
 }
 
+div .album_norm{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row-reverse;
+    align-items: center;
+    font-size: 20px;
+    text-shadow: 10px 5px 5px black;
+    background: linear-gradient(to right, #a4c62f, #6694a8, #161217);
+    width: 700px;
+    height: 150px;
+
+}
+div .album_ccc {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 180px;
+    font-size: 20px;
+    text-shadow: 10px 5px 5px black;
+    background: #000;
+    background: linear-gradient(to right,#535353, #acacab);
+    width: 700px;
+    height: 150px;  
+}
+div .album_blue{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row-reverse;
+    align-items: center;
+    font-size: 20px;
+    text-shadow: 10px 5px 5px black;
+    background: linear-gradient(to right, #a79987, #5d3d34, #27130f);
+    width: 700px;
+    height: 150px;
+
+}
+div .album_did{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 180px;
+    font-size: 20px;
+    text-shadow: 10px 5px 5px black;
+    background: #000;
+    background: linear-gradient(to right,#d8cc8c,#c2c3c6,#24252e);
+    width: 700px;
+    height: 150px;    
+}
+
+div .footer_copy {
+     
+}
